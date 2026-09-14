@@ -15,7 +15,6 @@ I am learning and building AI-powered solutions using Python and Generative AI.
 
 #### MarketMind AI v3.0
 An AI-powered market intelligence project that brings financial market information, analysis, news, predictions, and other market insights into one platform.
-[View MarketMind AI v3.0 on GitHub](https://github.com/abdullahqureshi-stack/MarketMind-AI-v3)
 
 ### Goal
 My goal is to build practical AI solutions and continue improving my skills in Artificial Intelligence, Machine Learning, and automation.
